@@ -6495,7 +6495,7 @@ button.close {
 }
 .clearfix:after,
 .dl-horizontal dd:after,
-.container:after,
+.p:after,
 .container-fluid:after,
 .row:after,
 .form-horizontal .form-group:after,
